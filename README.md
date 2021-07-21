@@ -31,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p float="left">
-  <img src="https://github.com/Dwashi2/swift-CollectionCellAndTableCell/blob/main/1.png" width="248">
+  <img src="https://github.com/Dwashi2/swift-PickerView/blob/main/1.png" width="248">
 </p>
  
  
